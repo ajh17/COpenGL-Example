@@ -3,7 +3,6 @@
 //  OpenGL-Example
 //
 //  Created by Akshay Hegde on 08/17/2017
-/r
 
 // This sample code is a Swift port of the C version of "hello.c" provided in "OpenGL
 // Programming Guide" located at http://www.glprogramming.com/red/chapter01.html

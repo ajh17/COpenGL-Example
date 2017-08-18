@@ -10,5 +10,6 @@ let package = Package(
     ],
     targets: [
         .target(name: "OpenGL-Example", dependencies: []),
+        .target(name: "Animation", dependencies:[]),
     ]
 )
